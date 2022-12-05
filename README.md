@@ -1,4 +1,4 @@
-# Project Title
+# LoginUI
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+
 
 ```
 Just install apk file.
@@ -25,7 +25,7 @@ Just install apk file.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
+
 
 Say what the step will be
 
@@ -39,7 +39,7 @@ Just click on apk file
 wait until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo.
+
 
 ## Usage <a name = "usage"></a>
 
